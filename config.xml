@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "gesture.entry"
+        id        = "eight.ball"
         version   = "1.0.0">
 
-    <name>RandomGenerator</name>
+    <name>EightBall</name>
 
     <description>
-        A sample application that gets a random generator.
+        A sample application that gets a eight ball generator.
     </description>
 
     <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
